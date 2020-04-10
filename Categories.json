@@ -1,11 +1,11 @@
 {
     "datas": [{
         "idx": 2020040401,
-        "name": "昆剧1",
-        "desc": "我国南方地区的一种艺术表现形式， 传承上千年。 艺术表现形式， 传承上千年艺术表现形式， 传承上千年",
-        "imgUrl": "https://www.zsvillage.com/myApp/appzsvillage/images/zsvillage_20200402144949.jpg",
+        "name": "缂丝",
+        "desc": "缂（kè，同：刻）丝（英文：K’o-ssu 、Kesi 或 Chinese silk tapestry），又称“刻丝”，是中国传统丝绸艺术品中的精华",
+        "imgUrl": "https://raw.githubusercontent.com/takalard/flutter_culture/master/images/kesi/kesi1.jpg",
         "date": "2020 - 04 - 04",
-        "descInfoIdxs": "[202004040101, 202004040102]",
+        "descInfoIdxs": "[202004040101, 202004040102, 202004040103]",
         "barType": 0,
         "relatedIdxs": "[202004040101, 202004040102]"
     }, {

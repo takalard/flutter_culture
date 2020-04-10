@@ -2,16 +2,16 @@
   "datas": [{
       "idx": 202004040101,
       "dataType": 0,
-      "subTitle": "顾坚<杰出人物>",
-      "imgUrl": "https://www.zsvillage.com/myApp/appzsvillage/images/zsvillage_20200402144949.jpg",
-      "desc": "元末清初江苏昆山人，昆曲的创始人。"
+      "subTitle": "杰出人物",
+      "imgUrl": "https://raw.githubusercontent.com/takalard/flutter_culture/master/images/kesi/kesi2.jpg",
+      "desc": "沈子蕃[南宋]、吴圻[明代]、朱良栋[明代]、王金山[1939年~]、王玉祥[1937年出生]"
     },
     {
       "idx": 202004040102,
       "dataType": 0,
       "subTitle": "代表作",
-      "imgUrl": "https://www.zsvillage.com/myApp/appzsvillage/images/zsvillage_20200402144949.jpg",
-      "desc": "《西厢记》、《牡丹亭》"
+      "imgUrl": "https://raw.githubusercontent.com/takalard/flutter_culture/master/images/kesi/kesi7.png",
+      "desc": "《三星图》[王嘉良]、《十二章团龙福寿如意衮服》[苏州刺绣研究所俞家荣等]、《古寒山寺》[马惠娟]、《贵妃醉酒》[王玉祥]"
     }
   ]
 }
