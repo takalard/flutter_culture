@@ -6,7 +6,7 @@
         "imgUrl": "https://raw.githubusercontent.com/takalard/flutter_culture/master/images/kesi/kesi1.jpg",
         "date": "2020 - 04 - 04",
         "descInfoIdxs": "[202004040101, 202004040102, 202004040103]",
-        "barType": 0,
+        "barType": 1,
         "relatedIdxs": "[202004040101, 202004040102]"
     }, {
         "idx": 2020040402,
@@ -15,7 +15,7 @@
         "imgUrl": "https://www.zsvillage.com/myApp/appzsvillage/images/zsvillage_20200402144949.jpg",
         "date": "2020 - 04 - 04",
         "descInfoIdxs": "[202004040101, 202004040102]",
-        "barType": 1,
+        "barType": 0,
         "relatedIdxs": "[202004040101, 202004040102]"
     }, {
         "idx": 2020040403,
